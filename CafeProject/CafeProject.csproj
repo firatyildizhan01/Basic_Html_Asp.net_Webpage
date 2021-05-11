@@ -69,8 +69,11 @@
   <ItemGroup>
     <Content Include="AnaSayfa.aspx" />
     <Content Include="AnaSayfa1.aspx" />
+    <Content Include="resimler\3.jpg" />
+    <Content Include="resimler\4.jpg" />
     <Content Include="resimler\coffee.png" />
     <Content Include="resimler\coffeetr.jpg" />
+    <Content Include="resimler\yy.jpg" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
   </ItemGroup>
